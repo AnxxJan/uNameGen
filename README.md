@@ -37,3 +37,6 @@ Suppose you have a text file named `names.txt` containing the following names:
   python script.py -n names.txt -o output.txt -v
   ```
 Will generate the usernames and display them in the console (if verbose mode is enabled), and save them to output.txt.
+
+## RRSS
+[HackTheBox Profile](https://app.hackthebox.com/profile/559951)
